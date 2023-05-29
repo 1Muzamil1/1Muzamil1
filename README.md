@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzamil Fayaz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1muzamil1&label=Profile%20views&color=0e75b6&style=flat" alt="1muzamil1" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **smuzamil133@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact ** Back in the days i was very much afraid of these coding language and now when i remember those days it brings me smile.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
